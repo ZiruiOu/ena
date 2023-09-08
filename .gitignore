@@ -1,1 +1,7 @@
+# json files
+are_distribution*.json
+
+# jupyter checkpoints
+/.ipynb_checkpoints
+
 /target
